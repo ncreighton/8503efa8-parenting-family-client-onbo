@@ -1,2 +1,28 @@
-# 8503efa8-parenting-family-client-onbo
-Every parenting professionals needs this — most just don't know it yet.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Parenting &amp; Family Client Onboarding Automation — fully configured and ready to use - Pre-built n8n
+# Parenting & Family Client Onboarding Automation N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14A9ATeTte2M9JKavOcZL0g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14A9ATeTte2M9JKavOcZL0g)
+
